@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="fr" id= "haut">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	 <link rel="stylesheet" type="text/css" href="css/menu.css" media="screen">    
+  	  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">   
+  	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <title>Traitement de demande de droit</title>
+</head>
+<body>
+	
+
+<div class="page-container">
+	<style>
+		.page-container {
+			min-height: 100vh;
+		}
+	</style>
+			<nav>
+			<label for="toggle" class="labmenu">☰</label>
+    		<input type="checkbox" id="toggle">			
+				<div class="menu">
+					<a href="index.html" >ETROP</a>	
+                    <a href="index.html"><i class="fa fa-home w3-hover-indigo" style="color:white;"></i> Accueil</a>
+					<a href="appli.html" ><i class="fa fa-folder w3-hover-indigo" style="color: white;"></i> Mes applications</a>
+					<a href="notif.html"><i class="fa fa-bell-o w3-hover-indigo" style="color:white;"></i> Notifications</a>
+					<a><i class="fa fa-power-off w3-hover-indigo" style="color: white;"></i> Se déconnecter</a>
+				</div>
+			</nav>	
+
+
+        <div class="w3-container w3-center w3-text-indigo">
+                <h1><b>Demande de droit</b></h1>
+        </div>
+
+					
+		<div class="w3-indigo w3-btn w3-margin w3-text-white" >		
+			<a href="notif.html"><i class="fa fa-arrow-left"> </i>Retour</a>
+		</div>
+	   
+
+		<section class="formulaire w3-center" id="form" style="font-size: x-large;">
+			<form method="POST">
+		
+			<div class=" w3-container w3-text-indigo">
+                <p>L'utilisateur Zaabay Tarehi demande le droit à l'installation d'extensions supplémentaires sur l'application Sublime Text.</p>
+			</div>
+			
+			<div class=" w3-container w3-text-indigo">
+				<p>Motif : Je dois réaliser un projet dans le cadre de l'entreprise en PHP.</p>			
+			</div>
+			
+            <div class=" w3-container w3-text-indigo">
+				<p>Acceptez-vous la demande ?</p>
+				<input type="radio" id="oui2" name="notifs" value="Oui" required>
+				<label for="oui">Oui</label>
+				<input type="radio" id="non2" name="notifs" value="Non" required>
+				<label for="non">Non</label><br>			
+			</div>
+			
+			<div class=" w3-container w3-text-indigo">
+				<label for="offre">Choisir un droit : </label>
+				<select class=" w3-container w3-text-indigo" id="offre" name="offre" required>
+					<option value="">--choississez un droit--</option>
+                    <option value="A">Aucun droit</option>
+  					<option value="J">Installation de l'extension Java</option>
+   				    <option value="C">Installation de l'extension C</option>
+    			  	<option value="H">Installation de l'extension HTML</option>
+    				<option value="P">Installation de l'extension PHP</option>
+  				</select>
+			</div>
+			 <div class=" w3-container w3-text-indigo">
+				<label for="id">Explication de la décision : </label>
+				<input class="w3-input w3-border" type="text">
+			</div>
+                <div class=" w3-container w3-text-indigo">
+                    <input class=" w3-container w3-indigo w3-text-white" type="submit" value="Envoyer">
+                    <input class=" w3-container w3-border-indigo w3-text-indigo" type="reset" value="Annuler">			
+                </div>	
+			</form>
+		</section>
+		</div>
+	
+		<div class="w3-container w3-indigo w3-cell-row">
+			<p class= "w3-cell w3-container w3-center">ETROP</p>
+		   <p class= "w3-cell w3-container w3-center">@Copyright 2024 Etrop<br></p>
+		   <p class= "w3-cell w3-container w3-center">Créateurs: TELECHEA-LOJOU Nell<br>BRIBANT Benjamin</p>
+		</div>
+</body>
+
+</html>

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr" id= "haut">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/menu.css" media="screen"> 
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <title>Profil utilisateur</title>
+</head>
+
+
+<body class>
+    <div class="page-container">
+        <style>
+			.page-container {
+				min-height: 100vh;
+			}
+		</style>
+    <nav>
+		<label for="toggle" class="labmenu">☰</label>
+    	    <input type="checkbox" id="toggle">			
+			<div class="menu">
+				<a href="index.html" >ETROP</a>	
+                <a href="index.html"><i class="fa fa-home w3-hover-indigo" style="color:white;"></i> Accueil</a>
+				<a href="appli.html" ><i class="fa fa-folder w3-hover-indigo" style="color: white;"></i> Mes applications</a>
+				<a href="notif.html"><i class="fa fa-bell-o w3-hover-indigo" style="color:white;"></i> Notifications</a>
+				<a><i class="fa fa-power-off w3-hover-indigo" style="color: white;"></i> Se déconnecter</a>
+			</div>
+	</nav>	
+	
+	<div class="w3-container w3-center w3-text-indigo">
+		<h1><b>Profil utilisateur</b></h1>
+	</div>
+
+
+    <div class="w3-container w3-center w3-margin-bottom" style="display: flex;">
+        <article style="margin-right: 20px;">
+            <img src="../img/Izzie.jpg" alt="imagebio" class="w3-image" style="max-width: 400px;">
+        </article>
+    
+        <div class="w3-text-indigo w3-xlarge" style="text-align: left;">
+            <p><i class="fa fa-user"></i> Telechat Izzie</p>
+            <p><i class="fa fa-id-card"></i> Profil Etrop : Super Utilisatrice</p>
+            <p><i class="fa fa-id-badge "></i> Département : Informatique</p>
+            <p><i class="fa fa-wrench"></i> Profil-type : Support technique</p>
+        </div>
+    </div>
+    
+
+    <div class="w3-text-indigo w3-margin-left w3-margin-top">
+        <h2><b>Demander au manager un nouveau profil-type pour cet utilisateur :</b></h2>
+    </div>
+
+    <form method="POST">
+    <div class="w3-container w3-text-indigo w3-large">
+        <label for="offre">Choisir un profil-type : </label>
+        <select class="w3-container w3-text-indigo" id="offre" name="offre" required>
+            <option value="">--Choisissez un profil-type--</option>
+            <option value="A">Invité</option>
+            <option value="B">Utilisateur basique</option>
+            <option value="C">Utilisateur avancé</option>
+            <option value="D">Support technique</option>
+            <option value="E">Administrateur système</option>
+            <option value="F">Comptable</option>
+            <option value="G">Responsable RH</option>
+            <option value="H">Manager</option>
+          </select>
+    </div>
+
+    <div class="w3-container w3-text-indigo w3-large w3-margin-top">
+        <label for="id">Raison de la demande : </label>
+        <input type="text" name="id" id="id" >	
+    </div>
+
+    <div class="w3-container w3-text-indigo w3-large w3-margin-top">
+        <input class=" w3-container w3-indigo w3-text-white" type="submit" value="Envoyer">
+        <input class=" w3-container w3-border-indigo w3-text-indigo" type="reset" value="Annuler">			
+    </div> 
+    </form>
+    </div>
+
+    <div class="w3-container w3-indigo w3-cell-row">
+    <p class= "w3-cell w3-container w3-center">ETROP</p>
+    <p class= "w3-cell w3-container w3-center">@Copyright 2024 Etrop<br></p>
+    <p class= "w3-cell w3-container w3-center">Créateurs: TELECHEA-LOJOU Nell<br>BRIBANT Benjamin</p>
+    </div>
+
+
+</body> 

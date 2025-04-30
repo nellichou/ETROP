@@ -1,0 +1,99 @@
+@media screen and (min-width: 960px ){
+
+
+	label.labmenu, #toggle {
+   	 display: none;
+	}
+	
+		nav {
+            
+   	 position: sticky;
+   	 top: 0%;
+   	 width: 100%;
+   	 background-color: #3F51B5;
+   	 margin:-0.5em;
+   	 margin-bottom: 0.5em;
+   	 font-size: 2em;
+   	 padding: 1em;
+    
+}
+ 
+	nav .menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+	}
+ 
+	nav .menu a {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    text-decoration: none;
+    font-family: Calibri, sans-serif;
+	   	 color:#FFF;
+	}
+ 
+	nav a:hover {
+    background: #FFF;
+		color:#3F51B5;
+    
+
+    
+	}
+}
+
+
+
+
+@media screen and (max-width: 960px ) {
+		  nav
+    {
+        height: 0%;
+        margin-bottom: 1em;
+    }
+	
+    nav .menu
+    {
+        display: none;
+        flex-direction: column;
+       background:#3F51B5;
+        height: 20%;
+        border-radius: 30px;
+    }
+ 
+    nav .menu a {
+       font-size: 1.5em;
+       margin: 0.5em;
+       padding:5%;
+       color: #FFF;
+       text-decoration: none;
+       font-family: Calibri, sans-serif;
+    }
+
+	#toggle {
+		display: none;	
+	}    
+    
+     label.labmenu {
+        width: 10%;
+        display: flex;
+			justify-content: center;
+        font-size: 3em;
+        background-color: #3F51B5;
+        color: #FFF;
+        padding: 5%;
+        border-radius: 30px;
+       box-shadow: 12px 10px 10px #3F51B5;
+       
+    }
+	
+	#toggle:checked + .menu {
+        display: flex;
+     }
+     
+     
+  }
+

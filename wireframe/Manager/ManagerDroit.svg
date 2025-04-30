@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ManagerDroit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0128998"
+     inkscape:cx="396.88031"
+     inkscape:cy="403.29753"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="616.05302"
+       y="636.78557"
+       width="151.05146"
+       height="29.617934"
+       id="rect20" />
+    <rect
+       x="343.56803"
+       y="629.87472"
+       width="151.05146"
+       height="32.579727"
+       id="rect18" />
+    <rect
+       x="319.87368"
+       y="530.16101"
+       width="536.0846"
+       height="55.286809"
+       id="rect16" />
+    <rect
+       x="376.14776"
+       y="480.79779"
+       width="411.68928"
+       height="55.286809"
+       id="rect15" />
+    <rect
+       x="216.21092"
+       y="419.58739"
+       width="615.06576"
+       height="59.235867"
+       id="rect14" />
+    <rect
+       x="401.81663"
+       y="306.05198"
+       width="322.83548"
+       height="46.401429"
+       id="rect8" />
+    <rect
+       x="241.87979"
+       y="235.9562"
+       width="771.05354"
+       height="104.65003"
+       id="rect4" />
+    <rect
+       x="369.23691"
+       y="157.96231"
+       width="408.72748"
+       height="76.019363"
+       id="rect3" />
+    <rect
+       x="878.09717"
+       y="35.544926"
+       width="425.75198"
+       height="44.354916"
+       id="rect6-1-9" />
+    <rect
+       x="675.69299"
+       y="36.353748"
+       width="248.03925"
+       height="72.662529"
+       id="rect19-2-9" />
+    <rect
+       x="33"
+       y="44"
+       width="164"
+       height="59"
+       id="rect5" />
+    <rect
+       x="463"
+       y="45"
+       width="224"
+       height="65"
+       id="rect7" />
+    <rect
+       x="110.86513"
+       y="738.10229"
+       width="886.11676"
+       height="51.19862"
+       id="rect4-1" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#3f51b5;fill-opacity:1;stroke-width:0.265214"
+       id="rect1"
+       width="297.13553"
+       height="38.518867"
+       x="0.13990803"
+       y="0.050544195" />
+    <rect
+       style="fill:#1a1a1a;stroke-width:0.264583"
+       id="rect2"
+       width="0.26013997"
+       height="1.5336039"
+       x="231.49843"
+       y="14.267943" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.23146147,0,0,0.37838783,22.459196,-5.6955953)"
+       id="text5"
+       style="font-size:37.3333px;white-space:pre;shape-inside:url(#rect6-1-9);display:inline;fill:#1a1a1a"><tspan
+         x="878.09766"
+         y="69.513566"
+         id="tspan6"><tspan
+           style="fill:#ffffff"
+           id="tspan5">Se déconnecter</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.9541px;fill:#f9f9f9;stroke-width:0.320197"
+       x="48.519985"
+       y="17.963512"
+       id="text7"
+       transform="scale(0.91609605,1.0915886)"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="fill:#ffffff;stroke-width:0.320197"
+         x="48.519985"
+         y="17.963512">Accueil</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.24020889,0,0,0.36487144,5.2745433,-5.6889833)"
+       id="text19"
+       style="font-size:37.3333px;white-space:pre;shape-inside:url(#rect19-2-9);display:inline;fill:#000000;fill-opacity:1"><tspan
+         x="675.69336"
+         y="70.32216"
+         id="tspan9"><tspan
+           style="fill:#ffffff"
+           id="tspan8">Notifications</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.74680406,0,0,1.0145361,-18.55301,-35.808164)"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect5);display:inline;fill:#ffffff;fill-opacity:1"><tspan
+         x="33"
+         y="54.918502"
+         id="tspan10">ETROP</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.72909473,0,0,1.1465277,-247.32121,-44.536816)"
+       id="text6"
+       style="white-space:pre;shape-inside:url(#rect7);display:inline;fill:#ffffff;fill-opacity:1"><tspan
+         x="463"
+         y="55.918502"
+         id="tspan11">Mes applications</tspan></text>
+    <rect
+       style="fill:#3f51b5;fill-opacity:1;stroke-width:0.264583"
+       id="rect3-2"
+       width="296.97491"
+       height="18.898373"
+       x="0.32186657"
+       y="190.87418" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.47248017,0,0,0.3848523,18.466928,-92.065869)"
+       id="text3"
+       style="font-size:37.3333px;white-space:pre;shape-inside:url(#rect4-1);display:inline;fill:#1a1a1a"><tspan
+         x="110.86523"
+         y="772.07021"
+         id="tspan13"><tspan
+           style="fill:#f9f9f9"
+           id="tspan12">Mentions légales</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.96953003,0,0,1.0844099,-254.84336,-130.71543)"
+       id="text2"
+       style="white-space:pre;shape-inside:url(#rect3);fill:#3f51b5"><tspan
+         x="369.23633"
+         y="168.88139"
+         id="tspan19">Demande de droit</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.63857535,0,0,0.87408201,-102.65073,-144.91169)"
+       id="text4"
+       style="white-space:pre;shape-inside:url(#rect4);fill:#3f51b5"><tspan
+         x="241.87891"
+         y="246.87553"
+         id="tspan21">L'utilisateur [nom] demande [droit] sur l'application [app]</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.90757542,0,0,1.0428474,-230.77096,-241.89377)"
+       id="text8"
+       style="white-space:pre;shape-inside:url(#rect8);fill:#3f51b5"><tspan
+         x="401.81641"
+         y="316.97124"
+         id="tspan22">[Motif]</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.93377772,0,0,1.0917601,-127.44704,-354.04653)"
+       id="text14"
+       style="white-space:pre;shape-inside:url(#rect14);fill:#3f51b5"><tspan
+         x="216.21094"
+         y="430.50639"
+         id="tspan23">Acceptez-vous la demande ?</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.65690956,0,0,0.9006557,-164.40599,-308.48707)"
+       id="text15"
+       style="white-space:pre;shape-inside:url(#rect15);fill:#3f51b5"><tspan
+         x="376.14844"
+         y="491.71538"
+         id="tspan24">[Liste déroulante de différents droits]</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.6004091,0,0,0.91372279,-111.13979,-346.05226)"
+       id="text16"
+       style="white-space:pre;shape-inside:url(#rect16);fill:#3f51b5"><tspan
+         x="319.87305"
+         y="541.07866"
+         id="tspan25">[Zone de texte pour expliquer la décision]</tspan></text>
+    <rect
+       style="fill:#3f51b5;stroke-width:0.261931"
+       id="rect17"
+       width="44.40633"
+       height="13.060686"
+       x="95.604218"
+       y="165.87073" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.86261399,0,0,0.82877673,-197.9585,-355.86915)"
+       id="text17"
+       style="white-space:pre;shape-inside:url(#rect18);fill:#ffffff;fill-opacity:1"><tspan
+         x="343.56836"
+         y="640.7935"
+         id="tspan26">Envoyer</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#3f51b5;stroke-width:0.272274;stroke-opacity:1"
+       id="rect19"
+       width="45.182281"
+       height="11.485712"
+       x="156.20964"
+       y="166.65819" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.83903912,0,0,0.74479237,-356.76667,-306.9131)"
+       id="text20"
+       style="white-space:pre;shape-inside:url(#rect20);fill:#3f51b5;fill-opacity:1;stroke:#3f51b5;stroke-opacity:1"><tspan
+         x="616.05273"
+         y="647.70366"
+         id="tspan28"><tspan
+           style="stroke:none"
+           id="tspan27">Annuler</tspan></tspan></text>
+  </g>
+</svg>
