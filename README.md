@@ -5,7 +5,7 @@ Il y a 4 utilisateurs type : - utilisateur normal (client),\
                         - utilisateur avancé (manager),\
                         - ressources humaines,\
                         - super utilisateur.\
-Leurs rôles sont détaillées plus précisément dans le rapport.\
+Leurs rôles sont détaillées plus précisément dans le rapport. \
 
 Voici les liens pour la maquette de chaque utilisateur type :\
 Utilisateur normal : https://dwarves.iut-fbleau.fr/~bribant/maquette/UserStory_Utilisateur_Client/ \
